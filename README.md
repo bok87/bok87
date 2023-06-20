@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?text=WebDesignPublisher&animation=fadeIn&color=FD866E&type=shark)
 
-<h3 align="center">👋포부작성하기</h3>
+<h3 align="center">👋홧팅!</h3>
 
 - 💬 Ask me about **HTML, CSS, Javascript, Jquery, SCSS**
 
-- 📫 How to reach me **메일작성**
+- 📫 How to reach me **s2sunnys287@gmail.com**
 
 </p>
 
